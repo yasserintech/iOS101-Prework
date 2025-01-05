@@ -33,7 +33,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 Describe any challenges encountered while building the app.
 
-
+- I encountered a challenge when trying to connect the swift file to the ColorSwitch button within the UI.
 
 ## License
 
